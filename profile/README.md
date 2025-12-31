@@ -20,6 +20,10 @@ Netrunner card images in WEBP format, can be built & deployed as a docker image 
 
 Netrunner card texts data in Simplified Chinese.
 
+### netrunner-database
+
+Netrunner card data in JSON format, with texts in Simplified Chinese.
+
 ### netrunner-tutorial
 
 A localized version of [Chiriboga](https://github.com/bobtheuberfish/chiriboga), with Simplified Chinese version of card images and translated UI.
@@ -30,15 +34,6 @@ Netrunner is a trademark of Fantasy Flight Publishing, Inc. and/or Wizards of th
 
 None of our projects is affiliated with Fantasy Flight Games or Wizards of the Coast.
 
-## Hi there 👋
+## Maintainers
 
-<!--
-
-**Here are some ideas to get you started:**
-
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+[Eric03742](https://github.com/eric03742)
