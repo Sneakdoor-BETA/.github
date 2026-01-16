@@ -12,6 +12,10 @@ A Chinese community-maintained fork of Jinteki.net.
 
 The Stats dashboard plugin from [jnet-stats](https://github.com/multiaccess-studios/jnet-stats) for `netrunner-arena`.
 
+### netrunner-arena-plugin-wrapped
+
+Jnet-wrapped plugin from [makers-eye](https://github.com/migueldlr/makers-eye) for `netrunner-arena`.
+
 ### netrunner-cards
 
 Netrunner card images in WEBP format, can be built & deployed as a docker image for hosting.
